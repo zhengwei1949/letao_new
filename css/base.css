@@ -9,3 +9,15 @@
 .my-header a {
   color: #fff;
 }
+
+.my-footer {
+  background: #069;
+}
+
+.my-footer span {
+  color: #fff;
+}
+
+.my-footer .mui-active span {
+  color: darkorange;
+}
